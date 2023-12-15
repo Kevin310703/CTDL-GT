@@ -1,5 +1,5 @@
 import edu.princeton.cs.algs4.*;
-public class Two_Sum {
+public class TwoSum {
     public static void main(String[] args) {
         In in = new In("C:\\Users\\admin\\Documents\\GitHub\\CTDL-GT\\Week_2\\Data\\4Kints.txt");
         int[] a = in.readAllInts();

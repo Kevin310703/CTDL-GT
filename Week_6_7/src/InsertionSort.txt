@@ -1,0 +1,8 @@
+8ints: 20ms
+1Kints: 45ms
+4Kints: 70ms
+16Kints: 196ms
+32Kints: 519ms
+1Mints: 97806ms
+
+Thời gian chạy của InsertionSort là tương đương so với SelectionSort vì độ phức tạp là giống nhau 0(N^2)
